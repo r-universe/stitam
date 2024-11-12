@@ -1,0 +1,10 @@
+{
+  "id": 57084382,
+  "created_at": "2024-11-12T21:00:13.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["stitam.r-universe.dev"]
+}
