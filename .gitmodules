@@ -1,5 +1,12 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/stitam/stitam.r-universe.dev
 	branch = HEAD
+[submodule "mulea"]
+	path = mulea
+	url = https://github.com/ELTEbioinformatics/mulea
+	branch = *release
+[submodule "webseq"]
+	path = webseq
+	url = https://github.com/stitam/webseq
+	branch = *release

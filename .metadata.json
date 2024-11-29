@@ -1,0 +1,10 @@
+[
+  {
+    "package": "mulea",
+    "releasetag": true
+  },
+  {
+    "package": "webseq",
+    "releasetag": true
+  }
+]
