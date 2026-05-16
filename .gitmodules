@@ -2,9 +2,12 @@
 	path = .registry
 	url = https://github.com/stitam/stitam.r-universe.dev
 	branch = HEAD
-[submodule "mulea"]
-	path = mulea
-	url = https://github.com/ELTEbioinformatics/mulea
+[submodule "breakpoint"]
+	path = breakpoint
+	url = https://github.com/stitam/breakpoint
+[submodule "tailor"]
+	path = tailor
+	url = https://github.com/sbthandras/tailor
 [submodule "webseq"]
 	path = webseq
 	url = https://github.com/stitam/webseq
